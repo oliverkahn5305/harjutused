@@ -1,4 +1,4 @@
-#python ylessanne nr 3.4
+#python iseseisev töö
 #Oliver Kahn
 #08.03.2022
 
